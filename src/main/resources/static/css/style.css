@@ -1,0 +1,45 @@
+body{
+	background-color:blue;
+ }
+ 
+ a{
+ 	color:yellow;
+ 	font-family: 'Koulen', Arial;
+ }
+ 
+ h3{
+ 	font-family: 'Koulen', Arial;
+ 	color:yellow;
+ 	font-size:50px;
+ }	
+ 
+ label{
+ 	color:yellow;
+ }
+ 
+ th{
+ 	color:yellow;
+ }
+ 
+ td{
+ 	color:yellow;
+ }
+ 
+ input.form-control{
+ 	background-color:yellow;
+ }
+ 
+ select{
+ 	background-color:yellow;
+ }
+ 
+ .boton{
+ 	background-color:grey;
+ 	width:100px;
+ 	height:40px;
+ 	border-radius:5px;
+ 	border:grey;
+ 	color:yellow;
+ 	font-family: 'Koulen', Arial;
+ 	font-size:23px;
+ }
